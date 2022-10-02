@@ -1,0 +1,21 @@
+#downloaded_users {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+}
+
+#user {
+    display: flex;
+    box-shadow: 1px 1px 1px rgb(153, 153, 153), -1px -1px 1px rgb(153, 153, 153);
+    margin: 5px;
+    padding: 8px;
+    background-color: white;
+}
+
+#user span {
+    margin-left: 5px;
+}
+
+body {
+    background-color: bisque;
+}
